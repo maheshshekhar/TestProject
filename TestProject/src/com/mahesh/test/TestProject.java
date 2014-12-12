@@ -7,6 +7,8 @@ public class TestProject {
 
 		System.out.println("This is a test");
 		System.out.println("This is the second commit");
+		System.out.println("This is the third commit");
 	}
+	
 
 }
